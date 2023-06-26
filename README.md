@@ -15,9 +15,8 @@
 ![CSS](./public/images/css.svg)
 ![JS](./public/images/js.svg)
 ![REACT](./public/images/react.svg)
+![REDUX](./public/images/redux.svg)
 ![GIT](./public/images/git.svg)
-
-<img src="https://img.shields.io/badge/REDUX-161130?style=for-the-badge&logo=redux&logoColor=6f42b4"/>
 
 ## [**Демо**](https://star-wars-ruby-pi.vercel.app/)
 ![demo](./public/images/demo.jpg)
